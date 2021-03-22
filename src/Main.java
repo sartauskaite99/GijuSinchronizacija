@@ -1,4 +1,4 @@
-//Ausrine Sartauskaite, INFO 3 grupe,1811714
+
 //4. "Baltųjų - Raudonųjų" gijų veikos sinchronizatorius. -
 //Vienu metu leidžiama būti "aktyvioms" tik vienos spalvos gijoms
 //(klasikinės  "skaitytojų-rašytojų" problemos variacija).
